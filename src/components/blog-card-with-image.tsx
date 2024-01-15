@@ -8,7 +8,7 @@ export function BlogCardWithImage() {
       shadow={false}
       className="pb-5 p-0 !border-b md:border-none border-blue-gray-100"
     >
-      <CardBody className="p-0 ">
+      <CardBody className="p-0 ">f
         <div className="w-full mb-4 h-[211px] ">
           <Image
             width={768}
