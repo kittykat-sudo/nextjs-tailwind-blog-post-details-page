@@ -69,7 +69,7 @@ export function Navbar() {
           className="text-lg font-bold"
           color={isScrolling ? "blue-gray" : "white"}
         >
-          Material Tailwind
+          Le Bella
         </Typography>
         <ul
           className={`ml-10 hidden items-center gap-6 lg:flex ${

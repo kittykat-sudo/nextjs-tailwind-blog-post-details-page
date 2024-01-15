@@ -29,7 +29,7 @@ export function Footer() {
             variant="h4"
             className="mb-6"
           >
-            Material Tailwind
+            Le Bella
           </Typography>
           <div className="grid grid-cols-3 justify-between gap-4">
             {LINKS.map(({ title, items }) => (
@@ -68,7 +68,7 @@ export function Footer() {
           >
             &copy; {CURRENT_YEAR} Made with{" "}
             <a href="https://www.material-tailwind.com" target="_blank">
-              Material Tailwind
+              Le Bella
             </a>{" "}
             by{" "}
             <a href="https://www.creative-tim.com" target="_blank">
